@@ -4,7 +4,7 @@
 dinero_disponible = [10, 8, 10, 0]
 
 def mostrarDisponible(montos):
-    print(f"disponible 💸💰")
+    print(f"disponible💰")
     print(f"50k: {montos[0]}\n20k: {montos[1]}",
       f"\n10k: {montos[2]}\n5k: {montos[3]}")
     
